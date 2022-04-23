@@ -1,10 +1,10 @@
 # 盲盒盲盒one 向粉丝们发放一波 无限流量 卡 福利
 
-已绝版的 无限流量卡
+已绝版的 无限流量 达量限速 手机卡
 
 月租30，每月送450分钟通话时长，
 
-每月流量超18G后限速1Mbps，超出流量永久免费
+每月流量超18G后限速1Mbps，超出流量永久免费 
 ![image](https://github.com/mhmhone/wuxianliuliang_sim_card/blob/main/IMG/tc.jpg)
 
 
