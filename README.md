@@ -5,6 +5,8 @@
 月租30，每月送450分钟通话时长，
 
 每月流量超18G后限速1Mbps，超出流量永久免费
+![image](https://github.com/mhmhone/wuxianliuliang_sim_card/blob/main/IMG/tc.jpg)
+
 
 
 因量比较稀少, 申请的人数较多，
